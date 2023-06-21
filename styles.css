@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.hero{
+	display:flex;
+}
+img{
+	width:100%;
+}
+.content{
+	margin: 30px 20px;
+	display: center;
+}
+
+button{
+	background:red;
+}
